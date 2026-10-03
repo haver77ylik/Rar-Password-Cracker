@@ -220,4 +220,4 @@ RAR Password Cracker is offered as a **complete free version** with all features
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-02 22:49:05 UTC
+**Last updated:** 2026-10-03 01:41:26 UTC
